@@ -22,4 +22,4 @@ $ trash nVidia
 ## tra.sh Discord edition
 [Cyber](https://github.com/CyberL1) decided to bring the experience of using tra.sh to Discord.
 
-[Add the tra.sh bot to your Discord server now!](https://discord.com/oauth2/authorize?client_id=768877535756812298&permissions=274877974528&scope=bot%20applications.commands)
+[Add the tra.sh bot to your Discord server now!](https://discord.com/oauth2/authorize?client_id=768877535756812298)
